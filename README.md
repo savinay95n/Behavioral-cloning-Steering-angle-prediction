@@ -1,8 +1,10 @@
 # Behavioral-cloning-Steering-angle-prediction
 
-![DEMO](https://user-images.githubusercontent.com/35360830/117068100-d5934f00-acf8-11eb-8fef-1a8550ba0c7d.gif)
-
 BEHAVIORAL CLONING
+
+DEMO in Autonomous Mode:
+
+![DEMO](https://user-images.githubusercontent.com/35360830/117068100-d5934f00-acf8-11eb-8fef-1a8550ba0c7d.gif)
 
 The codes are written in Python 3.6
 keras version: 2.1.5
