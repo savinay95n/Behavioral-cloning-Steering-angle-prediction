@@ -1,5 +1,8 @@
 # Behavioral-cloning-Steering-angle-prediction
 
+DEMO:
+https://user-images.githubusercontent.com/35360830/117060745-45044100-acef-11eb-9734-0b864c37b09c.mp4
+
 BEHAVIORAL CLONING
 
 The codes are written in Python 3.6
