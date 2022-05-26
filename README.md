@@ -1,5 +1,7 @@
 # Behavioral-cloning-Steering-angle-prediction
 
+[![DOI](https://zenodo.org/badge/364363154.svg)](https://zenodo.org/badge/latestdoi/364363154)
+
 BEHAVIORAL CLONING
 
 DEMO in Autonomous Mode:
